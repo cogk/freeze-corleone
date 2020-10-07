@@ -1,0 +1,11 @@
+{
+  "name": "genius-corleone",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "got": "^11.7.0",
+    "happy-dom": "^1.1.14",
+    "readline-sync": "^1.4.10"
+  }
+}
